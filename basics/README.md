@@ -1,3 +1,2 @@
 #!/bin/bash
-echo '/atlas-shell/basics'
-
+Not empty
