@@ -1,5 +1,5 @@
 #!/bin/bash
-bash << EOF
+
 echo "/atlas-shell/basics/0-current_working_directory"
-EOF
+
 
