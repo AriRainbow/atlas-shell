@@ -1,2 +1,2 @@
 #!/bin/bash
-ls  ./. ../.. /root -lar  
+ls -la /atlas-shell/basics  /atlas-shell  /root -la  
