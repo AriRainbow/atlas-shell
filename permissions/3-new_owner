@@ -1,2 +1,2 @@
 #!/bin/bash
-chown www-data hello.txt
+chown www-data hello
