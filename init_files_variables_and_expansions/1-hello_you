@@ -1,2 +1,2 @@
 #!/bin/bash
-whoami=$USER | alias $USER=MyUser | echo "Hello $USER"
+echo "Hello $(whoami)"
